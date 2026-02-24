@@ -78,14 +78,6 @@ Example:
 
 ---
 
-# 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
-
----
-
 # 💼 Internship Focus
 
 Currently looking for:
@@ -104,8 +96,8 @@ I am confident in:
 
 # 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- Email: (Add your email)
+- LinkedIn: www.linkedin.com/in/abhishek-awari-3a251a319
+- Email: abhishekawari830@gmail.com
 
 ---
 

@@ -68,16 +68,6 @@ I design and build **secure, scalable, production-ready backend systems**.
 
 ---
 
-# 🌐 Portfolio
-
-🚧 (Add your deployed project links here)
-
-Example:
-- 🔗 Live Project: https://yourproject.com
-- 💻 GitHub Repo: https://github.com/yourusername/project
-
----
-
 # 💼 Internship Focus
 
 Currently looking for:
